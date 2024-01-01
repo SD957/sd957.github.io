@@ -70,7 +70,7 @@ a:hover { /* Hover style: transition to orange. Cool! */
     -webkit-transition:color .2s ease-in-out;
     -moz-transition:color .2s ease-in-out;
     transition:color .2s ease-in-out;
-    color: red;
+    color: #E10900;
 }
 
 /* Generic to all content. */
@@ -120,3 +120,9 @@ footer {
     margin-bottom: 2.0em;
     position: absolute;
 }
+
+/* Whu color */
+/* #41B6E6 东湖蓝 */
+/* #F8A3BC luoying粉 */
+/* #FFA300 秋桂黄 */
+/* #33058D 春藤紫   #C1C6C8  浅灰*/
