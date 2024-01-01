@@ -1,101 +1,59 @@
-<html>
- 
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
-    <script type="text/javascript">
- 
-        function display(id){
-            var traget=document.getElementById(id);
-            if(traget.style.display=="none"){
-                traget.style.display="";
-            }else{
-                traget.style.display="none";
-          }
-       }
-    </script>
-    <style type="text/css">
-        body{text-align:center;font-family:"Times New Roman"}
-        a{text-decoration:none}
-        a:hover{ color:#F00}
-        /* div{float:left} */
-        li { margin-top:3px;}
-    </style>
-    <title> 网页的名称，可以写你的帅名</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Side Liu's Homepage</title>
+    <link rel="stylesheet" type="text/css" media="screen" href="./resouces/style.css">
 </head>
- 
-<body>
-    <div align="center">
-        <div style="width:1200px; height:250px; padding-top: 30px;">
-            <div style="float: left;">
-                <img src='./resouces/avatar.jpg' height="230px" width="180px" />
-            </div>
-            <div style="width:900px; height:240px; padding-left: 10px; float: left; text-align: left;">
-                <br /> 
-                <font size="5px">Side Liu (刘思德)</font> 
-                <br />
-                <br /> 
-                Third-year PhD student @ School of Cyber Science and Engineering, Wuhan University, China (since 2019.09) 
-                <br />
-                <br /> 
-                Email: sidelau[dot]whu[dot]cn
-                <br />
-                <br /> 
-                <a href="https://github.com/SD957">[Github]</a>
-            </div>
-        </div>
- 
-        <!-- 调整下面的height可以调整每一个模块的高度，当前为60px -->
-        <div style="width:1200px; height:60px; padding-top: 10px;">
-            <div style="width:1190px; height:50px; float: left; text-align: left; padding-left: 10px; ">
-                &nbsp &nbsp &nbsp &nbsp Hi! I am a third-year PhD student at School of Cyber Science and Engineering, Wuhan University. My reseach interest includes software security, intrusion detection and AI application for security.
-            </div>
-        </div>
+
+<body >
+
+<table width="100%">
+<tbody>
+  <tr>
+    <td width="20%" valign="top">
+      <img width="120" height="160" src="./resouces/avatar.jpg">
+    </td>
+    
+    <td width="80%" vertial-align="middle">	
+      <h3><span style="font: Times New Roman;font-size: 1.5em; color: #002554;"><b>Side Liu (刘思德)</b></span></a></h3>
+      <p>
+        Hi, I am a third-year PhD student at <a href="https://cse.whu.edu.cn/">School of Cyber Science and Engineering</a>, <a href="https://whu.edu.cn/">Wuhan University</a>. 
+        My research interests focus on the intersection of software security and machine learning. <br>
+        E-mail: sidelau@whu.edu.cn
+      </p>
+      <p align="left">
+        <!-- <a href="https://drive.google.com/file/d/11JuwURtPstX0E7urbhsZNcTaVE2F52QY/view?usp=sharing"> CV </a>&nbsp;-->
+        <a href="https://github.com/SD957"> [Github] </a> &nbsp;
+        <a href="https://scholar.google.com/citations?user=tojjQ2cAAAAJ&hl=zh-CN&oi=sra"> [Google Scholar] </a>
+      </p>
+    </td>    
+</tr>
+</tbody>
+</table>
+
+
+
+
+<!-- News -->
+<header>
+	<h3>News</h3>
+</header>
+<p><strong>12/2023</strong> &nbsp Our paper is accepted by Computers & Security</p>
+
 
 
 <!-- Publication -->
-        <div style="width:1200px; height:140px; padding-top: 10px;">
-            <div style="width:800px; height:20px; float: left; text-align: left; padding-left: 10px;">
-                <font size="5px">Publications</font>
-            </div>
-            <div style="width:1190px; height:50px; float: left; text-align: left; padding-left: 10px;">
-                <ul>
-                    <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S016740482300562X">
-                        A Survey on the Evolution of Fileless Attacks and Detection Techniques </a> </li> 
-                        <b>Side Liu</b>, Guojun Peng, Haitao Zeng, Jianming Fu
-                    <br>
-                        Computers & Security
-                </ul>
+<header>
+	<h3>Publications</h3>
+</header>
 
-            </div>
-        </div>
-<!-- 获得的奖项, 调整下面的height可以调整每一个模块的高度，当前模块为Prizes，高度为430px -->
-        <div style="width:1200px; height:430px; padding-top: 10px;">
-            <div style="width:800px; height:20px; float: left; text-align: left; padding-left: 10px;">
-                <font size="5px">Prizes</font>
-            </div>
-            <div style="width:1190px; height:50px; float: left; text-align: left; padding-left: 10px;">
-                <ul type="circle">
-                    <li>  （比赛名称）如：Blue Bridge Cup National Software and Information Technology Professionals Competition, Prized from <i><font color="#14C652">（颁奖单位）如：Department of Education of Henan Provincec</font></i> <i><font color="#C64A5F">奖励等级和性质(eg:First prize for individual)</font></i>, (获奖时间,含金量)，如：2023 (Top 10%),<a href="你的证书的相对地址（用相对地址等会儿部署到github上容易部署）">[See Certificate]</a></li>
-                </ul>
-            </div>
-        </div>
- 
-<!-- 科研成果, 调整下面的height可以调整每一个模块的高度，当前模块为Scientific Research，高度为100px -->
-      <div style="width:1200px; height:100px; padding-top: 10px;">
-            <div style="width:800px; height:auto; float: left; text-align: left; padding-left: 10px;">
-                <font size="5px">Scientific Research</font>
-            </div>
-            <div style="width:1190px; height:50px; float: left; text-align: left; padding-left: 10px;">
-                <ul type="circle">
-                    <li>  Computer Software Copyright Certificate: <i><font color="#14C652">Computer information data encryption management system</font></i>, <i><font color="#C64A5F"> 2022.12 </font></i>,Finished. <a href="./data/prizes/2022软著.jpg">[See Certificate]</a></li>
-                </ul>
-            </div>
-        </div>
- 
- 
- 
-        <!-- <div align="center">You are the No.<a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3246285&c=9739168" alt="AmazingCounters.com"></a> unique visitor, welcome!</div> -->
- 
-    </div>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S016740482300562X">
+<u>A Survey on the Evolution of Fileless Attacks and Detection Techniques </u></a> <br>
+<b>Side Liu</b>, Guojun Peng, Haitao Zeng, Jianming Fu <br>
+<i>Computers & Security, Volume 137, February 2024</i>
+
 </body>
 </html>
  

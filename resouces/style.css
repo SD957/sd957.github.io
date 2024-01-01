@@ -1,0 +1,122 @@
+
+
+body {
+   max-width: 800px; margin:0 auto 
+}
+
+
+html { 
+    font-family: 'Times New Roman';
+    min-height:100%;
+    position:relative;
+    font-size: 13px;
+    -webkit-font-smoothing: antialiased;
+}
+
+body {
+    background-color: white;
+    font-family: 'Times New Roman';
+    margin: 20px auto 40px auto; 
+    line-height: 1.3
+}
+
+
+ul{
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+ul li {
+    margin-top: 0.5em;
+    margin-bottom: 0em;
+}
+
+h2 {
+  font-size: 1.4em;
+  color: #002554;
+}
+
+h3{
+  font-size: 1.3em;
+  margin-top: 0.7em;
+  margin-bottom: 0.4em;
+  color: #002554;
+}
+
+p{
+  margin-top: 0.5em;
+  margin-bottom: 0.5px;
+}
+
+
+/* Links. */
+
+blockquote a {
+    color: dimgrey;
+}
+
+a { /* Generic link styling, greyish and underlined. */
+    color: #00797C;
+    text-decoration: none;
+    -o-transition:color .2s ease-in-out;
+    -webkit-transition:color .2s ease-in-out;
+    -moz-transition:color .2s ease-in-out;
+    transition:color .2s ease-in-out;
+}
+
+
+a:hover { /* Hover style: transition to orange. Cool! */
+    -o-transition:color .2s ease-in-out;
+    -webkit-transition:color .2s ease-in-out;
+    -moz-transition:color .2s ease-in-out;
+    transition:color .2s ease-in-out;
+    color: red;
+}
+
+/* Generic to all content. */
+
+.content ol, .content ul {
+    position: relative;
+    left: 40px;
+}
+
+/* Make super and subscipts look reasonable. */
+
+sup, sub {
+    vertical-align: 0;
+    position: relative;
+}
+
+sup {
+    bottom: 1ex;
+    font-size: 0.6em;
+}
+
+sub {
+    top: 0.8ex;
+    font-size: 0.6em;
+}
+
+/* Images */
+
+/* Blockquotes */
+
+blockquote {
+    font-size: 1.0em;
+    line-height: 1.4em;
+}
+
+strong {
+    font-size: 1.0em;
+    line-height: 1.3em;
+}
+
+/* Footer at page bottom */
+
+footer {
+    bottom: 0;
+    color: grey;
+    font-size: 1.0em;
+    margin-bottom: 2.0em;
+    position: absolute;
+}
