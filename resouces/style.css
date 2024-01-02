@@ -113,8 +113,10 @@ strong {
 
 /* Footer at page bottom */
 
-footer {
+#footer {
     bottom: 0;
+    width: 50%;
+    text-align: center;
     color: grey;
     font-size: 0.8em;
     margin-bottom: 2.0em;
