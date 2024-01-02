@@ -9,7 +9,7 @@ html {
     font-family: "Menlo";
     min-height:100%;
     position:relative;
-    font-size: 16px;
+    font-size: 15px;
     -webkit-font-smoothing: antialiased;
 }
 
@@ -36,7 +36,7 @@ h2 {
   color: #002554;
 }
 
-h3{
+h1{
   font-size: 1.3em;
   margin-top: 0.7em;
   margin-bottom: 0.4em;
@@ -80,41 +80,13 @@ a:hover { /* Hover style: transition to orange. Cool! */
     left: 40px;
 }
 
-/* Make super and subscipts look reasonable. */
-
-sup, sub {
-    vertical-align: 0;
-    position: relative;
-}
-
-sup {
-    bottom: 1ex;
-    font-size: 0.6em;
-}
-
-sub {
-    top: 0.8ex;
-    font-size: 0.6em;
-}
-
-/* Images */
-
-/* Blockquotes */
-
-blockquote {
-    font-size: 1.0em;
-    line-height: 1.4em;
-}
-
-strong {
-    font-size: 1.0em;
-    line-height: 1.3em;
-}
 
 /* Footer at page bottom */
 
 footer {
     bottom: 0;
+    width: fit-content;
+    text-align: center;
     color: grey;
     font-size: 0.8em;
     margin-bottom: 2.0em;
