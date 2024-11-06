@@ -42,7 +42,7 @@ E-mail: sidelau@whu.edu.cn
 
 
 # 🎈 Services
-- Program Committee:
+- Program Committee
 
   - WWW 2025
 
