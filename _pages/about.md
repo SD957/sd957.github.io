@@ -28,16 +28,16 @@ E-mail: sidelau@whu.edu.cn
 
 # 📝 Publications
 
-- A Survey on the Evolution of Fileless Attacks and Detection Techniques   
+- A Survey on the Evolution of Fileless Attacks and Detection Techniques ([paper](https://www.sciencedirect.com/science/article/pii/S016740482300562X))   
   **Side Liu**, Guojun Peng, Haitao Zeng, Jianming Fu   
   *Computers & Security, Volume 137, February 2024*
 
-- A survey on the evolution of bootkits attack and defense techniques   
+- A Survey on the Evolution of Bootkits Attack and Defense Techniques ([paper](https://ieeexplore.ieee.org/document/10433454))   
   Yilin Zhou, Guojun Peng, Zichuan Li, **Side Liu**   
   *China Communications, Volume 21, February 2024*
 
 - Research on Entity Recognition and Alignment of APT Attack based on BERT and BiLSTM-CRF   
-  Xiuzhang Yang, Guojun Peng, Zichuan Li, Yangqi Lyu, **Side Liu**, Chenguang Li   
+  Xiuzhang Yang, Guojun Peng, Zichuan Li, Yangqi Lyu, **Side Liu**, Chenguang Li ([paper](https://www.infocomm-journal.com/txxb/EN/abstract/abstract172578.shtml))   
   *Journal on Communications, Vol.43, June 2022*
 
 
