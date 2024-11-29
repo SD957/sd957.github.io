@@ -36,9 +36,9 @@ E-mail: sidelau@whu.edu.cn
   Yilin Zhou, Guojun Peng, Zichuan Li, **Side Liu**   
   *China Communications, Volume 21, February 2024*
 
-- Research on Entity Recognition and Alignment of APT Attack based on BERT and BiLSTM-CRF   
-  Xiuzhang Yang, Guojun Peng, Zichuan Li, Yangqi Lyu, **Side Liu**, Chenguang Li ([paper](https://www.infocomm-journal.com/txxb/EN/abstract/abstract172578.shtml))   
-  *Journal on Communications, Vol.43, June 2022*
+- Research on Entity Recognition and Alignment of APT Attack based on BERT and BiLSTM-CRF ([paper](https://www.infocomm-journal.com/txxb/EN/abstract/abstract172578.shtml))   
+  Xiuzhang Yang, Guojun Peng, Zichuan Li, Yangqi Lyu, **Side Liu**, Chenguang Li   
+  *Journal on Communications, Volume 43, June 2022*
 
 
 
