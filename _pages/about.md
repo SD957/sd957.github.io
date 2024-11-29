@@ -32,12 +32,12 @@ E-mail: sidelau@whu.edu.cn
   **Side Liu**, Guojun Peng, Haitao Zeng, Jianming Fu   
   *Computers & Security, Volume 137, February 2024*
 
-- A survey on the evolution of bootkits attack and defense techniques
-  Yilin Zhou, Guojun Peng, Zichuan Li, **Side Liu**
+- A survey on the evolution of bootkits attack and defense techniques   
+  Yilin Zhou, Guojun Peng, Zichuan Li, **Side Liu**   
   *China Communications, Volume 21, February 2024*
 
-- Research on Entity Recognition and Alignment of APT Attack based on BERT and BiLSTM-CRF
-  Xiuzhang Yang, Guojun Peng, Zichuan Li, Yangqi Lyu, **Side Liu**, Chenguang Li
+- Research on Entity Recognition and Alignment of APT Attack based on BERT and BiLSTM-CRF   
+  Xiuzhang Yang, Guojun Peng, Zichuan Li, Yangqi Lyu, **Side Liu**, Chenguang Li   
   *Journal on Communications, Vol.43, June 2022*
 
 
