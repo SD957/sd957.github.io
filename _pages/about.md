@@ -58,6 +58,10 @@ E-mail: sidelau@whu.edu.cn
 
   - USENIX Secuity 2024
 
+- Journal Reviewer
+
+  - Cybersecurity
+
 - Teaching Assistant
 
   - Software Security@Wuhan University, 2019 Fall, 2021 Fall
