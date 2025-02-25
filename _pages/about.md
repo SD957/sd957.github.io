@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am a forth-year PhD student at School of Cyber Science and Engineering, Wuhan University, under the supervision of Prof. Guojun Peng. Previously, I received my B.Eng. degree from Wuhan University in 2019. My research interests focus on the intersection of software security and machine learning.
-E-mail: sidelau@whu.edu.cn
+Hi, I am a forth-year PhD student at School of Cyber Science and Engineering, Wuhan University, under the supervision of Prof. Guojun Peng. Previously, I received my B.Eng. degree from Wuhan University in 2019.
+E-mail: sideliu@outlook.com
 
 
 
