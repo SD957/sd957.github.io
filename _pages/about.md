@@ -25,11 +25,11 @@ E-mail: sideliu@outlook.com
 
 
 # 📝 Publications
-- MODFuzz: A Multi-Objective Directed Fuzzer for USB Drivers ([paper](https://ieeexplore.ieee.org/document/10907918))  
+- MODFuzz: A Multi-Objective Directed Fuzzer for USB Drivers  
   Yilin Zhou, Guojun Peng, Xingliang Wang, Chenyang Wang, Zichuan Li, **Side Liu**, Yanhao Wang, Xiuzhang Yang, Jianming Fu  
   *IEEE Internet of Things Journal, 2025*
 
-- A Survey on the Evolution of Fileless Attacks and Detection Techniques ([paper](https://www.sciencedirect.com/science/article/pii/S016740482300562X))   
+- A Survey on the Evolution of Fileless Attacks and Detection Techniques   
   **Side Liu**, Guojun Peng, Haitao Zeng, Jianming Fu   
   *Computers & Security, Volume 137, February 2024*
 
@@ -65,4 +65,4 @@ E-mail: sideliu@outlook.com
 
 
 # 💻 Internships
-- *2024.06 - 2024.08*, [Tecent Keen Security Lab](https://keenlab.tencent.com/), China.
+- *2024.06 - 2024.08*, Tencent, China.
