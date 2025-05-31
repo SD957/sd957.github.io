@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am a forth-year PhD student at School of Cyber Science and Engineering, Wuhan University, under the supervision of Prof. Guojun Peng. Previously, I received my B.Eng. degree from Wuhan University in 2019.
+Hi, I'm a fourth-year PhD student at the School of Cyber Science and Engineering, Wuhan University, supervised by Prof. Guojun Peng. I also work closely with [Prof. Jiang Ming](https://cs.tulane.edu/~jming/) and am currently a visiting PhD student at the Department of Computer Science, Tulane University, working under his supervision.
+
 E-mail: sideliu@outlook.com
 
-
-
-
-
 # 📝 Publications
+- Analyzing PDFs like Binaries: Adversarially Robust PDF Malware     Analysis via Intermediate Representation and Language Model  
+  Side Liu, Jiang Ming, Guodong Zhou, Xinyi Liu, Jianming Fu, Guojun Peng  
+  CCS 2025 (*Accepted to appear*)
+
 - MODFuzz: A Multi-Objective Directed Fuzzer for USB Drivers  
   Yilin Zhou, Guojun Peng, Xingliang Wang, Chenyang Wang, Zichuan Li, **Side Liu**, Yanhao Wang, Xiuzhang Yang, Jianming Fu  
   *IEEE Internet of Things Journal, 2025*
