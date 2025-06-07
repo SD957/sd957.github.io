@@ -23,11 +23,11 @@ E-mail: sideliu@outlook.com | sidelau@whu.edu.cn
 
 # 📝 Publications
 - Analyzing PDFs like Binaries: Adversarially Robust PDF Malware Analysis via Intermediate Representation and Language Model  
-  Side Liu, Jiang Ming, Guodong Zhou, Xinyi Liu, Jianming Fu, Guojun Peng  
+  **Side Liu**, Jiang Ming, Guodong Zhou, Xinyi Liu, Jianming Fu, Guojun Peng  
   CCS 2025 (*Accepted to appear*)
 
 - VAPD: An Anomaly Detection Model for PDF Malware Forensics with Adversarial Robustness  
-  Side Liu, Jiang Ming, Yilin Zhou, Jianming Fu, Guojun Peng  
+  **Side Liu**, Jiang Ming, Yilin Zhou, Jianming Fu, Guojun Peng  
   USENIX Security 2025 (*Accepted to appear*)
 
 - MODFuzz: A Multi-Objective Directed Fuzzer for USB Drivers  
