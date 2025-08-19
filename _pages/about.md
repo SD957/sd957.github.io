@@ -28,7 +28,7 @@ E-mail: sideliu@outlook.com \| sidelau@whu.edu.cn
 
 - VAPD: An Anomaly Detection Model for PDF Malware Forensics with Adversarial Robustness  
   **Side Liu**, Jiang Ming, Yilin Zhou, Jianming Fu, Guojun Peng  
-  USENIX Security 2025 (*Accepted to appear*)
+  USENIX Security 2025
 
 - MODFuzz: A Multi-Objective Directed Fuzzer for USB Drivers  
   Yilin Zhou, Guojun Peng, Xingliang Wang, Chenyang Wang, Zichuan Li, **Side Liu**, Yanhao Wang, Xiuzhang Yang, Jianming Fu  
@@ -70,4 +70,5 @@ E-mail: sideliu@outlook.com \| sidelau@whu.edu.cn
 
 
 # 💻 Internships
-- *2024.06 - 2024.08*, Tencent, China.
+- *2024.06 - 2024.08*, Tencent Keen Lab, China
+  - Security research on intrusion detection and analysis, conducting comprehensive analysis of audit logs using provenance graphs and LLMs.
