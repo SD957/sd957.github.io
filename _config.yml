@@ -24,7 +24,7 @@ author:
   name             : "Side Liu"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Wuhan University"
-  location         : "Wuhan, China"
+  location         : "New Orleans, LA, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=tojjQ2cAAAAJ&hl=en"
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : https://www.linkedin.com/in/side-liu-35498a376/ # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
