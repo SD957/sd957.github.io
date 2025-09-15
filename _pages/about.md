@@ -30,7 +30,7 @@ E-mail: sideliu@outlook.com \| sidelau@whu.edu.cn
   **Side Liu**, Jiang Ming, Yilin Zhou, Jianming Fu, Guojun Peng  
   USENIX Security 2025
 
-- A Survey on Android Dynamic Evasive Malware: Taxonomy, Countermeasures and Open Challenges
+- A Survey on Android Dynamic Evasive Malware: Taxonomy, Countermeasures and Open Challenges  
   Dongni Zhang, Xiuzhang Yang, **Side Liu**, Yilin Zhou, Jianming Fu, Guojun Peng  
   *Computers & Security, Volume 159, December 2025*
 
