@@ -47,6 +47,7 @@ E-mail: sideliu@outlook.com \| sidelau@whu.edu.cn
 
 
 # 🎖 Honors and Awards
+- *2023 -*  Individual Funding from Qi An Xin’s Cyber Security Innovation Project (\$7000)
 - *2022 -*  2nd at Datacon Data Security Analytics Competition: Cybercrime Analysis Track.
 - *2021 -*  4th at Datacon Data Security Analytics Competition: Email Security Track.
 - *2019 -*  Outstanding Bachelor's Degree Thesis of Wuhan University.
