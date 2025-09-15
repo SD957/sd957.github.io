@@ -30,6 +30,10 @@ E-mail: sideliu@outlook.com \| sidelau@whu.edu.cn
   **Side Liu**, Jiang Ming, Yilin Zhou, Jianming Fu, Guojun Peng  
   USENIX Security 2025
 
+- A Survey on Android Dynamic Evasive Malware: Taxonomy, Countermeasures and Open Challenges
+  Dongni Zhang, Xiuzhang Yang, **Side Liu**, Yilin Zhou, Jianming Fu, Guojun Peng  
+  *Computers & Security, Volume 159, December 2025*
+
 - MODFuzz: A Multi-Objective Directed Fuzzer for USB Drivers  
   Yilin Zhou, Guojun Peng, Xingliang Wang, Chenyang Wang, Zichuan Li, **Side Liu**, Yanhao Wang, Xiuzhang Yang, Jianming Fu  
   *IEEE Internet of Things Journal, 2025*
