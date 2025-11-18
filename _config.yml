@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Side Liu"
-description              : "PhD Student"
+description              : "Visiting Research Scholar"
 repository               : "SD957/sd957.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Side Liu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Wuhan University"
+  bio              : "Tulane University"
   location         : "New Orleans, LA, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=tojjQ2cAAAAJ&hl=en"
-  email            : "sideliu@outlook.com"
+  email            : "sliu35@tulane.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

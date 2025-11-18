@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm a fourth-year PhD student at the School of Cyber Science and Engineering, Wuhan University, supervised by Prof. Guojun Peng. I also work closely with [Prof. Jiang Ming](https://cs.tulane.edu/~jming/) and am currently a visiting PhD student at the Department of Computer Science, Tulane University, working under his supervision.
+I am currently a visiting research scholar in the Department of Computer Science at Tulane University, working with [Prof. Jiang Ming](https://cs.tulane.edu/~jming/). Prior to this, I obtained my Ph.D. (2025) and B.S. (2019) degrees from the School of Cyber Science and Engineering at Wuhan University under the supervision of Prof. Guojun Peng。
 
-E-mail: sideliu@outlook.com \| sidelau@whu.edu.cn
+
+E-mail: sideliu@outlook.com \| sliu35@tulane.edu
 
 # 📝 Publications
 - Analyzing PDFs like Binaries: Adversarially Robust PDF Malware Analysis via Intermediate Representation and Language Model  
