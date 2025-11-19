@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a visiting research scholar in the Department of Computer Science at Tulane University, working with [Prof. Jiang Ming](https://cs.tulane.edu/~jming/). Prior to this, I obtained my Ph.D. (2025) and B.S. (2019) degrees from the School of Cyber Science and Engineering at Wuhan University under the supervision of Prof. Guojun Peng。
+I am currently a visiting research scholar in the Department of Computer Science at Tulane University, working with [Prof. Jiang Ming](https://cs.tulane.edu/~jming/). Prior to this, I obtained my Ph.D. (2025) and B.S. (2019) degrees from the School of Cyber Science and Engineering at Wuhan University under the supervision of Prof. Guojun Peng.
 
 
 E-mail: sideliu@outlook.com \| sliu35@tulane.edu
