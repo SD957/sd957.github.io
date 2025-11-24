@@ -60,9 +60,13 @@ E-mail: sideliu@outlook.com \| sliu35@tulane.edu
 
   - WWW 2025
 
+- Conference Artifact Evaluation Committee (ATC)
+  - USENIX Secuity 2026 
+
 - Conference External Reviewer
 
   - USENIX Secuity 2026, 2025, 2024
+  - PLDI 2026
 
 - Journal Reviewer
 
