@@ -35,7 +35,7 @@ E-mail: sideliu@outlook.com \| sliu35@tulane.edu
   Dongni Zhang, Xiuzhang Yang, <u>Side Liu</u>, Yilin Zhou, Jianming Fu, Guojun Peng  
   *Computers & Security, Volume 159, December 2025*
 
-- `IOTJ '25` MODFuzz: A Multi-Objective Directed Fuzzer for USB Drivers  
+- ``IOTJ'25`` MODFuzz: A Multi-Objective Directed Fuzzer for USB Drivers  
   Yilin Zhou, Guojun Peng, Xingliang Wang, Chenyang Wang, Zichuan Li, <u>Side Liu</u>, Yanhao Wang, Xiuzhang Yang, Jianming Fu  
   *IEEE Internet of Things Journal, 2025*
 
