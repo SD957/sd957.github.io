@@ -22,23 +22,23 @@ I am currently a visiting research scholar in the Department of Computer Science
 E-mail: sideliu@outlook.com \| sliu35@tulane.edu
 
 # 📝 Publications
-- `CCS '25` **Analyzing PDFs like Binaries: Adversarially Robust PDF Malware Analysis via Intermediate Representation and Language Model**  
+- `CCS '25`  **Analyzing PDFs like Binaries: Adversarially Robust PDF Malware Analysis via Intermediate Representation and Language Model**  
   **Side Liu**, Jiang Ming, Guodong Zhou, Xinyi Liu, Jianming Fu, Guojun Peng  
   CCS 2025
 
-- `USENIX Security '25` VAPD: An Anomaly Detection Model for PDF Malware Forensics with Adversarial Robustness  
+- `USENIX Security '25`  **VAPD: An Anomaly Detection Model for PDF Malware Forensics with Adversarial Robustness  
   **Side Liu**, Jiang Ming, Yilin Zhou, Jianming Fu, Guojun Peng  
   USENIX Security 2025
 
-- `Computers & Security '25` A Survey on Android Dynamic Evasive Malware: Taxonomy, Countermeasures and Open Challenges  
+- `Computers & Security '25`  **A Survey on Android Dynamic Evasive Malware: Taxonomy, Countermeasures and Open Challenges  
   Dongni Zhang, Xiuzhang Yang, **Side Liu**, Yilin Zhou, Jianming Fu, Guojun Peng  
   *Computers & Security, Volume 159, December 2025*
 
-- `IOTJ'25` MODFuzz: A Multi-Objective Directed Fuzzer for USB Drivers  
+- `IOTJ '25`  **MODFuzz: A Multi-Objective Directed Fuzzer for USB Drivers  
   Yilin Zhou, Guojun Peng, Xingliang Wang, Chenyang Wang, Zichuan Li, **Side Liu**, Yanhao Wang, Xiuzhang Yang, Jianming Fu  
   *IEEE Internet of Things Journal, 2025*
 
-- `Computers & Security '24` A Survey on the Evolution of Fileless Attacks and Detection Techniques   
+- `Computers & Security '24`  **A Survey on the Evolution of Fileless Attacks and Detection Techniques   
   **Side Liu**, Guojun Peng, Haitao Zeng, Jianming Fu   
   *Computers & Security, Volume 137, February 2024*
 
