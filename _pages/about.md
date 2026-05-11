@@ -69,7 +69,9 @@ E-mail: sideliu@outlook.com \| sliu35@tulane.edu
 
 - Journal Reviewer
 
-  - IEEE Transactions on Dependable and Secure Computing, Cybersecurity
+  - IEEE Transactions on Dependable and Secure Computing
+  - Information Processing and Management
+  - Cybersecurity
 
 - Teaching Assistant
 
