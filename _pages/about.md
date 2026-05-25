@@ -71,6 +71,7 @@ E-mail: sideliu@outlook.com \| sliu35@tulane.edu
 
   - IEEE Transactions on Dependable and Secure Computing (2026)
   - Information Processing and Management (2026)
+  - Computers & Security (2026)
   - Cybersecurity (2025)
 
 - Teaching Assistant
