@@ -24,12 +24,12 @@ E-mail: sideliu@outlook.com \| sliu35@tulane.edu
 # 📝 Selected Publications
 - `CCS '25`  **Analyzing PDFs like Binaries: Adversarially Robust PDF Malware Analysis via Intermediate Representation and Language Model**  
   **Side Liu**, Jiang Ming, Guodong Zhou, Xinyi Liu, Jianming Fu, Guojun Peng  
-  In Proceedings of the 32nd ACM Conference on Computer and Communications Security, Taipei, October 13-17, 2025. (Acceptance rate 13.9%=316/2278)  
+  In Proceedings of the 32nd ACM Conference on Computer and Communications Security (Acceptance rate 13.9%=316/2278)  
   CCS Artifact Badges: Available, Functional, Reproduced
 
 - `USENIX Security '25`  **VAPD: An Anomaly Detection Model for PDF Malware Forensics with Adversarial Robustness**  
   **Side Liu**, Jiang Ming, Yilin Zhou, Jianming Fu, Guojun Peng  
-  In Proceedings of the 34th USENIX Security Symposium, Seattle, WA, August 13-15, 2025. (Acceptance rate 17.1%=407/2385)  
+  In Proceedings of the 34th USENIX Security Symposium (Acceptance rate 17.1%=407/2385)  
   USENIX Artifact Badges: Available, Functional
 
 
