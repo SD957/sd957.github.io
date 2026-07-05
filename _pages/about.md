@@ -57,9 +57,10 @@ E-mail: sideliu@outlook.com \| sliu35@tulane.edu
 
 
 # 🎈 Services
-- Conference Reviewer
 
-  - WWW 2025
+- Program Committee
+  - USENIX Secuity 2027 
+
 
 - Conference Artifact Evaluation Committee (AEC)
   - USENIX Secuity 2026 
