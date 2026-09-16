@@ -42,9 +42,9 @@ E-mail: sideliu@outlook.com \| sliu35@tulane.edu
   CCS Artifact Badges: Available, Functional, Reproduced
 </div>
 <div class="publication__badges">
-  <img src="{{ '/images/ccs_artifacts_available_v1_1.png' | relative_url }}" alt="ACM Artifacts Available badge" loading="lazy" decoding="async">
-  <img src="{{ '/images/ccs_artifacts_evaluated_functional_v1_1.png' | relative_url }}" alt="ACM Artifacts Evaluated — Functional badge" loading="lazy" decoding="async">
-  <img src="{{ '/images/ccs_results_reproduced_v1_1.png' | relative_url }}" alt="ACM Results Reproduced badge" loading="lazy" decoding="async">
+  <img src="{{ '/images/ccs_artifacts_available_v1_1.png' | relative_url }}" alt="ACM Artifacts Available badge" width="68" height="68" loading="lazy" decoding="async">
+  <img src="{{ '/images/ccs_artifacts_evaluated_functional_v1_1.png' | relative_url }}" alt="ACM Artifacts Evaluated — Functional badge" width="68" height="68" loading="lazy" decoding="async">
+  <img src="{{ '/images/ccs_results_reproduced_v1_1.png' | relative_url }}" alt="ACM Results Reproduced badge" width="68" height="68" loading="lazy" decoding="async">
 </div>
 </div>
 </li>
@@ -58,8 +58,8 @@ E-mail: sideliu@outlook.com \| sliu35@tulane.edu
   USENIX Artifact Badges: Available, Functional
 </div>
 <div class="publication__badges">
-  <img src="{{ '/images/usenixbadges-available-v2.png' | relative_url }}" alt="USENIX Artifact Available badge" loading="lazy" decoding="async">
-  <img src="{{ '/images/usenixbadges-functional-v2.png' | relative_url }}" alt="USENIX Artifact Evaluated — Functional badge" loading="lazy" decoding="async">
+  <img src="{{ '/images/usenixbadges-available-v2.png' | relative_url }}" alt="USENIX Artifact Available badge" width="68" height="68" loading="lazy" decoding="async">
+  <img src="{{ '/images/usenixbadges-functional-v2.png' | relative_url }}" alt="USENIX Artifact Evaluated — Functional badge" width="68" height="68" loading="lazy" decoding="async">
 </div>
 </div>
 </li>

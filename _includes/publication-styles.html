@@ -1,0 +1,41 @@
+<!-- Keep the publication layout with the HTML so stale theme CSS cannot enlarge badges. -->
+<style>
+.publications > li {
+  margin-bottom: 1em;
+}
+.publications .publication {
+  display: flex;
+  align-items: center;
+  gap: 1.25em;
+}
+.publications .publication__text {
+  flex: 1;
+  min-width: 0;
+}
+.publications .publication__text p {
+  margin: 0;
+}
+.publications .publication__badges {
+  display: flex;
+  flex: none;
+  align-items: center;
+  gap: 0.4em;
+}
+.publications .publication__badges img {
+  display: block;
+  width: 4.5em;
+  height: 4.5em;
+  object-fit: contain;
+}
+@media (max-width: 767px) {
+  .publications .publication {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.6em;
+  }
+  .publications .publication__badges img {
+    width: 3.5em;
+    height: 3.5em;
+  }
+}
+</style>

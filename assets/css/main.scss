@@ -40,55 +40,6 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-.publications {
-    > li {
-        margin-bottom: 1em;
-    }
-
-    .publication {
-        display: flex;
-        align-items: center;
-        gap: 1.25em;
-    }
-
-    .publication__text {
-        flex: 1;
-        min-width: 0;
-
-        p {
-            margin: 0;
-        }
-    }
-
-    .publication__badges {
-        display: flex;
-        flex: none;
-        align-items: center;
-        gap: 0.4em;
-
-        // Smaller than the four-line publication text (6em at line-height 1.5).
-        img {
-            display: block;
-            width: 4.5em;
-            height: 4.5em;
-            object-fit: contain;
-        }
-    }
-
-    @media (max-width: 767px) {
-        .publication {
-            flex-direction: column;
-            align-items: stretch;
-            gap: 0.6em;
-        }
-
-        .publication__badges img {
-            width: 3.5em;
-            height: 3.5em;
-        }
-    }
-}
-
 .paper-box {
     display: flex;
     justify-content: left;
