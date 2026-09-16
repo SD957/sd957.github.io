@@ -25,7 +25,6 @@ E-mail: sideliu@outlook.com \| sliu35@tulane.edu
 - `S&P '27`  **What Users See Is Not What Models Read: Split-View PDFs in Document-to-LLM Supply Chain**  
   **Side Liu**, Jiang Ming  
   To Appear in Proceedings of the 48th IEEE Symposium on Security and Privacy (Acceptance rate 15.8%=160/1012 (Cycle 1))  
-  CCS Artifact Badges: Available, Functional, Reproduced
 
 - `CCS '25`  **Analyzing PDFs like Binaries: Adversarially Robust PDF Malware Analysis via Intermediate Representation and Language Model**  
   **Side Liu**, Jiang Ming, Guodong Zhou, Xinyi Liu, Jianming Fu, Guojun Peng  
