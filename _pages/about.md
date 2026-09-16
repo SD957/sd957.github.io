@@ -22,19 +22,48 @@ I am currently a postdoctoral fellow in the Department of Computer Science at Tu
 E-mail: sideliu@outlook.com \| sliu35@tulane.edu
 
 # 📝 Selected Publications
-- `S&P '27`  **What Users See Is Not What Models Read: Split-View PDFs in Document-to-LLM Supply Chain**  
+<ul class="publications">
+<li>
+<div class="publication">
+<div class="publication__text" markdown="1">
+`S&P '27`  **What Users See Is Not What Models Read: Split-View PDFs in Document-to-LLM Supply Chain**<br>
   **Side Liu**, Jiang Ming  
   To Appear in Proceedings of the 48th IEEE Symposium on Security and Privacy (Acceptance rate 15.8%=160/1012 (Cycle 1))  
+</div>
+</div>
+</li>
 
-- `CCS '25`  **Analyzing PDFs like Binaries: Adversarially Robust PDF Malware Analysis via Intermediate Representation and Language Model**  
+<li>
+<div class="publication">
+<div class="publication__text" markdown="1">
+`CCS '25`  **Analyzing PDFs like Binaries: Adversarially Robust PDF Malware Analysis via Intermediate Representation and Language Model**<br>
   **Side Liu**, Jiang Ming, Guodong Zhou, Xinyi Liu, Jianming Fu, Guojun Peng  
   In Proceedings of the 32nd ACM Conference on Computer and Communications Security (Acceptance rate 13.9%=316/2278)  
   CCS Artifact Badges: Available, Functional, Reproduced
+</div>
+<div class="publication__badges">
+  <img src="{{ '/images/ccs_artifacts_available_v1_1.png' | relative_url }}" alt="ACM Artifacts Available badge" loading="lazy" decoding="async">
+  <img src="{{ '/images/ccs_artifacts_evaluated_functional_v1_1.png' | relative_url }}" alt="ACM Artifacts Evaluated — Functional badge" loading="lazy" decoding="async">
+  <img src="{{ '/images/ccs_results_reproduced_v1_1.png' | relative_url }}" alt="ACM Results Reproduced badge" loading="lazy" decoding="async">
+</div>
+</div>
+</li>
 
-- `USENIX Security '25`  **VAPD: An Anomaly Detection Model for PDF Malware Forensics with Adversarial Robustness**  
+<li>
+<div class="publication">
+<div class="publication__text" markdown="1">
+`USENIX Security '25`  **VAPD: An Anomaly Detection Model for PDF Malware Forensics with Adversarial Robustness**<br>
   **Side Liu**, Jiang Ming, Yilin Zhou, Jianming Fu, Guojun Peng  
   In Proceedings of the 34th USENIX Security Symposium (Acceptance rate 17.1%=407/2385)  
   USENIX Artifact Badges: Available, Functional
+</div>
+<div class="publication__badges">
+  <img src="{{ '/images/usenixbadges-available-v2.png' | relative_url }}" alt="USENIX Artifact Available badge" loading="lazy" decoding="async">
+  <img src="{{ '/images/usenixbadges-functional-v2.png' | relative_url }}" alt="USENIX Artifact Evaluated — Functional badge" loading="lazy" decoding="async">
+</div>
+</div>
+</li>
+</ul>
 
 
 <!-- - `Computers & Security '25`  **A Survey on Android Dynamic Evasive Malware: Taxonomy, Countermeasures and Open Challenges**  
