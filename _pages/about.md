@@ -27,7 +27,7 @@ E-mail: sideliu@outlook.com \| sliu35@tulane.edu
 <div class="publication">
 <div class="publication__text" markdown="1">
 `S&P '27`  **What Users See Is Not What Models Read: Split-View PDFs in Document-to-LLM Supply Chain**<br>
-  **Side Liu**, Jiang Ming  
+  <strong><u>Side Liu</u></strong>, Jiang Ming<br>
   To Appear in Proceedings of the 48th IEEE Symposium on Security and Privacy (Acceptance rate 15.8%=160/1012 (Cycle 1))  
 </div>
 </div>
@@ -37,7 +37,7 @@ E-mail: sideliu@outlook.com \| sliu35@tulane.edu
 <div class="publication">
 <div class="publication__text" markdown="1">
 `CCS '25`  **Analyzing PDFs like Binaries: Adversarially Robust PDF Malware Analysis via Intermediate Representation and Language Model**<br>
-  **Side Liu**, Jiang Ming, Guodong Zhou, Xinyi Liu, Jianming Fu, Guojun Peng  
+  <strong><u>Side Liu</u></strong>, Jiang Ming, Guodong Zhou, Xinyi Liu, Jianming Fu, Guojun Peng<br>
   In Proceedings of the 32nd ACM Conference on Computer and Communications Security (Acceptance rate 13.9%=316/2278)  
   CCS Artifact Badges: Available, Functional, Reproduced
 </div>
@@ -53,7 +53,7 @@ E-mail: sideliu@outlook.com \| sliu35@tulane.edu
 <div class="publication">
 <div class="publication__text" markdown="1">
 `USENIX Security '25`  **VAPD: An Anomaly Detection Model for PDF Malware Forensics with Adversarial Robustness**<br>
-  **Side Liu**, Jiang Ming, Yilin Zhou, Jianming Fu, Guojun Peng  
+  <strong><u>Side Liu</u></strong>, Jiang Ming, Yilin Zhou, Jianming Fu, Guojun Peng<br>
   In Proceedings of the 34th USENIX Security Symposium (Acceptance rate 17.1%=407/2385)  
   USENIX Artifact Badges: Available, Functional
 </div>
