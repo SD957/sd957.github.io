@@ -21,12 +21,12 @@ I am currently a postdoctoral fellow in the Department of Computer Science at Tu
 
 E-mail: sideliu@outlook.com \| sliu35@tulane.edu
 
-# 📝 Selected Publications
+# Selected Publications
 <ul class="publications">
 <li>
 <div class="publication">
 <div class="publication__text" markdown="1">
-`S&P '27`  **What Users See Is Not What Models Read: Split-View PDFs in Document-to-LLM Supply Chain**<br>
+`S&P '27`  **What Users See Is Not What Models Read: Split-View PDFs in Document-to-LLM Supply Chain** <a href="https://arxiv.org/pdf/2606.15020">[pdf]</a><br>
   <strong><u>Side Liu</u></strong>, Jiang Ming<br>
   To Appear in Proceedings of the 48th IEEE Symposium on Security and Privacy (Acceptance rate 15.8%=160/1012 (Cycle 1))  
 </div>
@@ -36,7 +36,7 @@ E-mail: sideliu@outlook.com \| sliu35@tulane.edu
 <li>
 <div class="publication">
 <div class="publication__text" markdown="1">
-`CCS '25`  **Analyzing PDFs like Binaries: Adversarially Robust PDF Malware Analysis via Intermediate Representation and Language Model**<br>
+`CCS '25`  **Analyzing PDFs like Binaries: Adversarially Robust PDF Malware Analysis via Intermediate Representation and Language Model** <a href="https://arxiv.org/pdf/2506.17162">[pdf]</a><br>
   <strong><u>Side Liu</u></strong>, Jiang Ming, Guodong Zhou, Xinyi Liu, Jianming Fu, Guojun Peng<br>
   In Proceedings of the 32nd ACM Conference on Computer and Communications Security (Acceptance rate 13.9%=316/2278)  
   CCS Artifact Badges: Available, Functional, Reproduced
@@ -52,7 +52,7 @@ E-mail: sideliu@outlook.com \| sliu35@tulane.edu
 <li>
 <div class="publication">
 <div class="publication__text" markdown="1">
-`USENIX Security '25`  **VAPD: An Anomaly Detection Model for PDF Malware Forensics with Adversarial Robustness**<br>
+`USENIX Security '25`  **VAPD: An Anomaly Detection Model for PDF Malware Forensics with Adversarial Robustness** <a href="https://www.usenix.org/system/files/usenixsecurity25-liu-side.pdf">[pdf]</a><br>
   <strong><u>Side Liu</u></strong>, Jiang Ming, Yilin Zhou, Jianming Fu, Guojun Peng<br>
   In Proceedings of the 34th USENIX Security Symposium (Acceptance rate 17.1%=407/2385)  
   USENIX Artifact Badges: Available, Functional
@@ -82,7 +82,7 @@ E-mail: sideliu@outlook.com \| sliu35@tulane.edu
 
 
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - *2026 -*  Noteworthy Reviewer Recognition for USENIX Security 2026 Artifact Evaluation.
 - *2022 -*  2nd at Datacon Data Security Analytics Competition: Cybercrime Analysis Track.
 - *2021 -*  4th at Datacon Data Security Analytics Competition: Email Security Track.
@@ -90,7 +90,7 @@ E-mail: sideliu@outlook.com \| sliu35@tulane.edu
 
 
 
-# 🎈 Services
+# Services
 
 - Program Committee
   - USENIX Secuity 2027 
@@ -118,6 +118,6 @@ E-mail: sideliu@outlook.com \| sliu35@tulane.edu
   
 
 
-# 💻 Internships
+# Internships
 - *2024.06 - 2024.08*, Tencent Keen Lab, China
   - Security research on intrusion detection and analysis, conducting comprehensive analysis of audit logs using provenance graphs and LLMs.
