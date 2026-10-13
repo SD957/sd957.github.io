@@ -29,6 +29,12 @@ E-mail: sideliu@outlook.com \| sliu35@tulane.edu
 `S&P '27`  **What Users See Is Not What Models Read: Split-View PDFs in Document-to-LLM Supply Chain** <a href="https://arxiv.org/pdf/2606.15020">[pdf]</a><br>
   <strong><u>Side Liu</u></strong>, Jiang Ming<br>
   To Appear in Proceedings of the 48th IEEE Symposium on Security and Privacy (Acceptance rate 15.8%=160/1012 (Cycle 1))  
+  S&P Artifact Badges: Available, Functional, Reproduced
+</div>
+<div class="publication__badges">
+  <img src="{{ '/images/ieeespbadges-available.png' | relative_url }}" alt="IEEE S&amp;P Artifact Available badge" width="68" height="68" loading="lazy" decoding="async">
+  <img src="{{ '/images/ieeespbadges-functional.png' | relative_url }}" alt="IEEE S&amp;P Artifact Functional badge" width="68" height="68" loading="lazy" decoding="async">
+  <img src="{{ '/images/ieeespbadges-reproduced.png' | relative_url }}" alt="IEEE S&amp;P Results Reproduced badge" width="68" height="68" loading="lazy" decoding="async">
 </div>
 </div>
 </li>
